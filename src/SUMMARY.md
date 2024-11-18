@@ -33,6 +33,7 @@
   - [Prefer strconv over fmt](strconv.md)
   - [Avoid repeated string-to-byte conversions](string-byte-slice.md)
   - [Prefer Specifying Container Capacity](container-capacity.md)
+  - [Optimize Struct Data Alignment](data-alignment.md)
 - Style
   - [Avoid overly long lines](line-length.md)
   - [Be Consistent](consistency.md)
